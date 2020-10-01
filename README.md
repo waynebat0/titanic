@@ -1,2 +1,2 @@
 # titanic
-ML model trained on Titanic dataset(kaggle)
+ML model which is trained on Titanic dataset(kaggle)
